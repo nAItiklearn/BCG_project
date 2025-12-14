@@ -270,18 +270,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Naitik**  
-Junior Data Scientist | BCG GenAI Consulting Team  
+ 
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- GitHub: https://github.com/nAItiklearn
+- LinkedIn: www.linkedin.com/in/naitik181818
+- Email: naiitik1526@gmail.com
 
 ---
 
 ## ⭐ Star This Repository
 
-If you found this project interesting or useful, please consider giving it a star! ⭐
+If you found this project interesting or useful, please consider giving it a star
 
 ---
 
-**Made with 💼 by Naitik | BCG GenAI Consulting Team**
+**Made with 💼 by Naitik 
