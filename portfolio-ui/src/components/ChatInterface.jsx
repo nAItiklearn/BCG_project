@@ -29,7 +29,7 @@ export default function ChatInterface() {
         setLoading(true);
 
         try {
-            const res = await axios.post('http://localhost:5000/chat', { query: input });
+            const res = await axios.post('/chat', { query: input });
             const botMsg = {
                 role: 'bot',
                 text: res.data.text,
